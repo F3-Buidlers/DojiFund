@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/meta-ps/ThirdFund/">
-    <img src="./thirdfund-app/src/assets/logo.png" alt="Logo" width="80" height="80">
+    
   </a>
 
   <h2 align="center">DojiFund</h2>
@@ -8,7 +8,7 @@
   <p align="center">
    DojiFund is a secure and transparent crowdfunding platform built on Dojima Network that enables creators to raise funds from their community, using smart contracts and a reputation system to promote trust and transparency.
     <br />
-    <a href="https://www.loom.com/share/b08e6c3adf284c2ab9e904dc2bc43317">Watch Video</a>
+    
 
   </p>
 </div>
